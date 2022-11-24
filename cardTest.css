@@ -1,0 +1,70 @@
+.card-wrapper{
+    border: 0.5px solid grey;
+    width: 600px;
+    display: flex;
+    padding: 15px;
+}
+
+.user-img{
+    /* border: 1px solid brown; */
+    height: 150px;
+    margin-right: 10px;
+}
+
+.user-name{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.user-details{
+    /* border: 1px solid greenyellow; */
+    width: 70%;
+}
+
+.followers-wrapper{
+    /* border: 1px solid turquoise; */
+    display: flex;
+    font-size: 8px;
+    margin-bottom: 15px;
+}
+
+.public-repos{
+    /* border: 1px solid red; */
+    padding: 4px;
+    margin-right: 5px;
+    border-radius: 3px;
+    background-color: #4380f3;
+    color: white;
+}
+
+.user-followers{
+    /* border: 1px solid orange; */
+    padding: 4px;
+    margin-right: 5px;
+    border-radius: 3px;
+    background-color: #00a275;
+    color: white;
+
+}
+
+.user-following{
+    /* border: 1px solid blueviolet; */
+    padding: 4px;
+    border-radius: 3px;
+    background-color: #0a95bb;
+    color: white;
+}
+
+.more-user-details{
+    /* border: 1px solid grey; */
+    font-size: 10px;
+}
+
+.user-data{
+    /* border: 1px solid coral; */
+    padding: 5px;
+    border: 1px solid grey;
+    margin-bottom: 2px;
+
+}
